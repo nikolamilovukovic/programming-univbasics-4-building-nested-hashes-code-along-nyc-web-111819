@@ -20,8 +20,8 @@ def bonus
    }
   }
 
-  epic_tragedy[:hero][:age][:status] = "dead"
-  epic_tragedy[:heroine][:age][:status]= "dead"
+  epic_tragedy[:status] = "dead"
+  epic_tragedy[:status]= "dead"
 
   
 
